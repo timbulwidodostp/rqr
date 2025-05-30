@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p rqr Residualized quantile regression (RQR) Use rqr With STATA 19
